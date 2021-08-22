@@ -1,3 +1,1 @@
-# bookstore
-
-basic python app which can store and display information of books in a bookstore
+## A website in which you can find random google map locations
